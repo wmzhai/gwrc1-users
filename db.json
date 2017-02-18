@@ -1,11 +1,39 @@
 {
-  "users" : [
-    { "id": "1", "firstName": "Steve Jobs", "age" : 74, "companyId": "1" },
-    { "id": "2", "firstName": "Tom Hanks", "age": 64, "companyId": "2"},
-    { "id": "3", "firstName": "Obama", "age": 54, "companyId": "2"}
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Steve",
+      "age": 74,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Tomas",
+      "age": 64,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Trump",
+      "age": 54,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 35,
+      "id": "SkroFABFl"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "Apple", "description": "iphone"},
-    { "id": "2", "name": "Google", "description": "search"}    
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
   ]
 }
